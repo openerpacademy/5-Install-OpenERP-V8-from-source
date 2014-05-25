@@ -1,7 +1,7 @@
 ##OpenerpAcademy.com
 ###Episode 5 - Installing OpenERP V8 from Source on Ubuntu
 
-(watch the full episode at openerpacademy.com)[http://wp.me/p4Bowk-1f]
+[watch the full episode at openerpacademy.com](http://wp.me/p4Bowk-1f)
 
 #####Commands used in this episode
 
